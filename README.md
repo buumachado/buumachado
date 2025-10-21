@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Bruna Machado
-- 👀 I’m interested in Mobile and Software Architecture.
-- 🌱 I’m currently learning about Flutter, Kotlin, Swift, Devops...
-- 💞️ I’m looking to collaborate on Flutter projects.
+- 👀 I’m interested in AI and Software Architecture.
+- 🌱 I’m currently learning about AI Engineering...
 - 📫 How to reach me https://www.linkedin.com/in/buumachado/
 
 <!---
